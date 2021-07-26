@@ -1,3 +1,4 @@
 import streamlit as st
 
-st.write('Hello world')
+def say_hello():
+    st.write('Hello universe!')
